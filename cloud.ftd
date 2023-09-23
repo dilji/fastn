@@ -1,0 +1,11 @@
+-- ds.page: Cloud Services
+
+-- ds.h3: Cloud Databases
+
+We utilize cloud-based databases to manage user accounts, transactions, and other data. These databases are designed for performance and reliability.
+
+-- ds.h3: Google Maps API
+
+The Google Maps API is integrated into our app to provide location-based services, including mapping and geolocation functionality.
+
+-- end: ds.page

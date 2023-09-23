@@ -1,0 +1,31 @@
+-- ds.page: Digitize Money
+
+Digitize Your Money
+
+-- ds.h3: Enter the Amount
+
+1. Choose "Digitalize Money" from the home page.
+2. Enter the amount of physical cash you want to convert into your digital account balance.
+3. Click "Next."
+
+-- ds.h3: Nearby Users
+
+- The app will identify nearby users (within a 500-meter radius) who can assist with the transaction.
+
+-- ds.h3: User Preferences
+
+- You can select a preferred user based on distance, mode of travel, or other criteria.
+
+-- ds.h3: Real-Time Location
+
+- The app tracks the real-time location of you and nearby users to facilitate the exchange.
+
+-- ds.h3: Confirmation
+
+1. If a nearby user is willing to assist, you will receive a notification.
+2. Review the user's details and confirm the transaction.
+3. Meet the user at the agreed-upon location for the exchange.
+4. Both parties confirm the transaction to complete it successfully.
+
+-- end: ds.page
+

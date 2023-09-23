@@ -1,0 +1,14 @@
+-- ds.page: Home Page
+
+
+After successfully logging in, you will arrive at the app's home page. Here's what you can find:
+
+-- ds.h3: Liquify Money
+
+- Use this option when you want to convert your digital account balance into physical cash.
+
+-- ds.h3: Digitalize Money
+
+- Use this option when you want to convert physical cash into your digital account balance.
+
+-- end: ds.page

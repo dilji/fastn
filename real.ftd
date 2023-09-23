@@ -1,0 +1,8 @@
+-- ds.page: Real-Time
+
+-- ds.h3: WebSockets
+
+To facilitate real-time communication between users, we implement WebSockets. This technology ensures instant notifications, location tracking, and efficient exchange coordination.
+
+
+-- end: ds.page

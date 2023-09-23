@@ -1,0 +1,16 @@
+-- ds.page: Front-end Technologies
+
+-- ds.h3: React.js
+
+We use React.js for the front-end development, a popular JavaScript library for building responsive and dynamic user interfaces. React's component-based architecture allows us to create modular and reusable UI elements.
+
+-- ds.h3: HTML5 and CSS3
+
+HTML5 and CSS3 are used for structuring and styling the app's web pages. They provide flexibility in creating visually appealing and interactive user interfaces.
+
+-- ds.h3: JavaScript (ES6+)
+
+We employ the latest JavaScript features (ES6 and beyond) to write clean, efficient, and maintainable code for the front-end.
+
+
+-- end: ds.page

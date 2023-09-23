@@ -1,0 +1,19 @@
+-- ds.page: Back-end Technologies
+
+-- ds.h3: Node.js
+
+The back-end of our app is powered by Node.js, an event-driven, non-blocking, and highly scalable runtime environment. Node.js facilitates real-time communication and handles server-side logic efficiently.
+
+-- ds.h3: Express.js
+
+We use Express.js, a minimal and flexible Node.js web application framework, to build the server-side of our app. Express simplifies route handling, middleware implementation, and API development.
+
+-- ds.h3: MongoDB
+
+MongoDB serves as our database system, providing a NoSQL, document-oriented storage solution. Its flexibility and scalability are well-suited for managing user data and transaction records.
+
+-- ds.h3: Mongoose
+
+Mongoose is an ODM (Object Data Modeling) library for MongoDB. It enables us to define data schemas, perform database operations, and ensure data consistency.
+
+-- end: ds.page

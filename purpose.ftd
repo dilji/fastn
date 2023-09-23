@@ -1,0 +1,36 @@
+-- ds.page: Welcome
+
+Welcome to the documentation for our innovative Peer-to-Peer Banking application! Our app redefines the way individuals access cash and digitize their funds. Imagine a world where every person with our app installed becomes a potential ATM or Cash Deposit Machine (CDM), eliminating the need for physical ATM visits and long trips to banks. This documentation will provide you with a comprehensive understanding of the app's features and functionality.
+
+[Click here](https://fastn-community.github.io/doc-site/) to reach our web app.
+
+-- ds.h2: Purpose and Objectives
+
+The primary purpose of our app is to revolutionize the way users interact with their finances.
+ It offers a seamless and efficient method for converting digital account balances into physical cash (liquify money) and vice versa (digitalize money).
+ Key objectives of the app include:
+
+-- ds.h3: Convenience
+
+Providing users with an easy-to-use platform for managing their cash and digital funds without the need for traditional ATMs or bank visits.
+
+-- ds.h3: Cost Savings
+
+Reducing the reliance on physical ATMs, which can be expensive to install and maintain, thereby saving money for banks and financial institutions.
+
+
+-- ds.h3: Community Engagement
+
+Creating a network of users who can assist each other in cash transactions, fostering a sense of community and trust.
+
+-- ds.h3: Real Time Exchange
+
+Enabling real-time transactions, location tracking, and instant notifications for efficient money exchange.
+
+-- ds.h3: Commission System
+
+Encouraging users to help each other by offering commissions for successful cash exchange transactions.
+
+
+-- ds.h3: Our app is a modern and forward-thinking solution that leverages the power of technology to provide a more accessible and convenient financial experience.Whether you're a user seeking to convert digital money into cash or a potential service provider, this documentation will guide you through every aspect of our application.
+-- end: ds.page
