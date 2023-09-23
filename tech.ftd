@@ -1,0 +1,33 @@
+-- ds.page: Technology Stack
+
+Our Peer-To-Peer Banking app leverages a modern and robust technology stack to provide users with a seamless and secure financial experience.
+ The choice of technologies has been made to ensure scalability, real-time functionality, and a user-friendly interface.
+ Below are the key components of our technology stack:
+
+-- ds.h3: Front-End 
+
+- React.js
+- HTML5 and CSS3
+- JavaScript (ES6+)
+
+-- ds.h3: Back-End
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+
+-- ds.h3: Real-Time
+
+- WebSockets
+- Authentication and Authorization
+
+-- ds.h3: Cloud Services
+
+- Cloud Databases
+- Google Maps API
+
+Our carefully chosen technology stack ensures that our Peer-To-Peer Banking app operates efficiently, provides real-time services, and maintains the highest levels of security and user experience.
+ As technology continues to evolve, we are committed to staying up-to-date and adopting emerging technologies that enhance the app's functionality and reliability.
+
+-- end: ds.page

@@ -15,4 +15,18 @@ favicon: /-/dilji.github.io/fastn/favicon.ico
 
 # Home: index.html
 
-- Right Sidebar Sample: /sidebar/
+- Introduction: /purpose/
+- User Guide: /guide/
+  - Getting Started: /start
+  - HomePage: /homepage/
+  - Liquify Money: /liquify/
+  - Digitize Money: /digitize/
+  - Commission System: /commission/
+- Technology Stack: /tech/
+  - Front-end: /front/
+  - Back-end: /back/
+  - Real-time: /real/
+  - Security: /security/
+  - Cloud: /cloud/
+- Benefits: /benefits/
+- Conclution: /conclution/

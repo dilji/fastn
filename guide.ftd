@@ -1,0 +1,38 @@
+-- ds.page: Guide
+
+Welcome to the User Guide for our innovative ATM & CDM-like application. This guide will walk you through the steps to effectively use the app's features, enabling you to convert your digital account balance into physical cash or digitize cash into your account with ease.
+
+-- ds.h3: Getting Started
+
+- Registeration 
+- Login
+
+-- ds.h3: Home Page
+
+- Liquify Money
+- Digitize Money
+
+-- ds.h3: Liquify Money
+
+- Enter The Amount
+- Nearby users
+- User Preference
+- Real-Time Location
+- Confirmation
+
+-- ds.h3: Digitize Money
+
+- Enter The Amount
+- Nearby users
+- User Preference
+- Real-Time Location
+- Confirmation
+
+-- ds.h2: Commission System
+
+- Earning Commission
+- Commission Withdrawal
+
+With this User Guide, you should now have a comprehensive understanding of how to navigate and use our Peer-To-Peer Banking app to convert your account balance into physical cash or digitize cash into your account, all while benefiting from a user-driven community and commission system.
+
+-- end: ds.page
